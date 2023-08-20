@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BasicRetrofitAdapter</string>
+    <string-array name="horse_names">
+        <item>Pachuca</item>
+        <item>La kinli</item>
+        <item>Gary</item>
+        <item>Color sueldo minimo</item>
+        <item>Mendocina</item>
+        <item>Free cola</item>
+        <item>Montero</item>
+        <item>La Queso</item>
+        <item>Maricarmen</item>
+        <item>Cocandina</item>
+
+    </string-array>
+</resources>
